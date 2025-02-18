@@ -6,7 +6,7 @@ It also prints each step of the search process and determines whether a given va
 ###### UGV - User Given Value
 
 ## Input
-You have to manually change the input from the code as there is no Input mechanism impletmented
+You have to manually change the input from the code as there is no Input mechanism impletmented.
 
 ## How It Works
 1. **Finds the midpoint** of the array.  
